@@ -12,5 +12,4 @@ skills:
   operating_systems: ["Windows", "Fedora", "Kali Linux", "macOS"]
 
 interests: ["Game development", "IOS app development ", "Web development", "Machine learning"]
-hobbies: ["coding", "hiking", "reading", "traveling]
 ```
